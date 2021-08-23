@@ -1,5 +1,6 @@
+---
 jedi:
-name: Obi-Wan Kenobi
+  name: Obi-Wan Kenobi
   home-planet: Stewjon
   species: human
   master: Qui-Gon Jinn
